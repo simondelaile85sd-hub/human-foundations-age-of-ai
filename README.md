@@ -10,6 +10,16 @@ Human Foundations asks what human and social foundations should be built before 
 
 This is a candidate framework released for criticism and collaborative development. It is **not** a validated policy framework, a prediction that paid employment will disappear, or a claim that its individual ingredients are historically novel.
 
+## What the framework proposes
+
+Human Foundations explores the conditions people may need to retain meaningful agency, security, participation and the practical ability to use expanding technological freedom. Its central concern is that increased technical capability does not automatically produce usable human freedom: access, capacity, social conditions, institutions and power still shape what people can actually do.
+
+The framework therefore asks not only what advanced AI may make technically possible, but what human and social foundations would need to exist for those possibilities to become genuinely usable, broadly accessible and compatible with meaningful human choice.
+
+## Critique this work
+
+This release is explicitly open to criticism, prior-art correction and challenge. If you think a claim is wrong, overstated, already established elsewhere, insufficiently supported, or missing an important counterexample, please use the [contribution guide](CONTRIBUTING.md) for the current critique and submission path.
+
 ## Read v0.1
 
 - [Human Foundations for an Age of AI — Public Working Framework v0.1](HUMAN_FOUNDATIONS_v0.1.md)
@@ -32,7 +42,7 @@ AI-assisted synthesis, critique and editing are disclosed as development provena
 
 ## Curiosity Commons boundary
 
-Curiosity Commons is identified only as a **separate, unvalidated candidate implementation**. It is not evidence that Human Foundations is valid. Its name, principle and separate project materials are outside this release's CC BY 4.0 grant.
+Curiosity Commons is a separate experimental candidate implementation exploring how some Human Foundations principles might be translated into practical institutions or environments. It is **unvalidated** and is not evidence that Human Foundations is valid. Its name, principle and separate project materials are outside this release's CC BY 4.0 grant.
 
 ## Citation
 
