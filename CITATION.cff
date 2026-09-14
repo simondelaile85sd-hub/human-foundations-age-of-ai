@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this specific public working release when referring to Human Foundations v0.1."
+title: "Human Foundations for an Age of AI: Public Working Framework v0.1"
+authors:
+  - family-names: "Delaile"
+    given-names: "Simon"
+version: "0.1"
+date-released: 2026-09-14
+url: "https://github.com/simondelaile85sd-hub/human-foundations-age-of-ai"
+license: "CC-BY-4.0"
+abstract: >-
+  A developing, pre-validation public working framework asking what human and
+  social foundations should precede possible AI-driven changes in work and
+  material production. Released for criticism, prior-art correction and
+  collaborative development rather than as a validated policy framework.
+keywords:
+  - artificial intelligence
+  - human development
+  - capability
+  - agency
+  - future of work
+  - social infrastructure
