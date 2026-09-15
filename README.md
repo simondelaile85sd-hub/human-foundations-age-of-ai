@@ -49,6 +49,10 @@ Curiosity Commons is a separate experimental candidate implementation exploring 
 
 The public paired reviewer pack reproduces only selected Curiosity Commons material needed for critique. It does **not** publish the wider Curiosity Commons archive or place the Curiosity Commons project, name, principle, specifications, private files or future work under this release's CC BY 4.0 grant. Human Foundations likewise does not validate Curiosity Commons, and evidence from any Curiosity Commons pilot should transfer only to the specific mechanism or Human Foundations proposition that the pilot was designed to test.
 
+## Related project: Curiosity Commons
+
+[Curiosity Commons](https://github.com/simondelaile85sd-hub/curiosity-commons) is a legally and evidentially separate social-infrastructure project. It may operationalise and stress-test a subset of Human Foundations questions. Neither project validates the other, and evidence transfers only to the specific mechanism or proposition actually tested.
+
 ## Citation
 
 > Delaile, Simon. *Human Foundations for an Age of AI: Public Working Framework v0.1*. 14 September 2026. https://github.com/simondelaile85sd-hub/human-foundations-age-of-ai
