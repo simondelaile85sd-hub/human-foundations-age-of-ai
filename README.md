@@ -20,9 +20,12 @@ The framework therefore asks not only what advanced AI may make technically poss
 
 This release is explicitly open to criticism, prior-art correction and challenge. If you think a claim is wrong, overstated, already established elsewhere, insufficiently supported, or missing an important counterexample, please use the [contribution guide](CONTRIBUTING.md) for the current critique and submission path.
 
+For reviewers examining the relationship between Human Foundations and Curiosity Commons, the [paired external reviewer pack](PAIRED_REVIEWER_PACK_v0.1.md) exposes the relevant architecture, safeguards, measurement logic and evidence boundaries without publishing the wider Curiosity Commons archive.
+
 ## Read v0.1
 
 - [Human Foundations for an Age of AI — Public Working Framework v0.1](HUMAN_FOUNDATIONS_v0.1.md)
+- [Paired Human Foundations ↔ Curiosity Commons reviewer pack v0.1](PAIRED_REVIEWER_PACK_v0.1.md)
 - [Release notes and audit record](RELEASE_NOTES_v0.1.md)
 - [Rights and provenance](RIGHTS_AND_PROVENANCE.md)
 - [How to contribute criticism or prior art](CONTRIBUTING.md)
@@ -42,7 +45,9 @@ AI-assisted synthesis, critique and editing are disclosed as development provena
 
 ## Curiosity Commons boundary
 
-Curiosity Commons is a separate experimental candidate implementation exploring how some Human Foundations principles might be translated into a practical environment where belonging is not earned, meaningful contribution is possible but voluntary, and people can develop purpose, recognition and social participation beyond paid employment. It is **unvalidated** and is not evidence that Human Foundations is valid. Its name, principle and separate project materials are outside this release's CC BY 4.0 grant.
+Curiosity Commons is a separate experimental candidate implementation exploring how some Human Foundations principles might be translated into a practical environment where belonging is not earned, meaningful contribution is possible but voluntary, and people can develop purpose, recognition and social participation beyond paid employment. It is **unvalidated** and is not evidence that Human Foundations is valid.
+
+The public paired reviewer pack reproduces only selected Curiosity Commons material needed for critique. It does **not** publish the wider Curiosity Commons archive or place the Curiosity Commons project, name, principle, specifications, private files or future work under this release's CC BY 4.0 grant. Human Foundations likewise does not validate Curiosity Commons, and evidence from any Curiosity Commons pilot should transfer only to the specific mechanism or Human Foundations proposition that the pilot was designed to test.
 
 ## Citation
 
