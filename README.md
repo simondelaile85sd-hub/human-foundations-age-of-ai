@@ -22,6 +22,11 @@ This release is explicitly open to criticism, prior-art correction and challenge
 
 For reviewers examining the relationship between Human Foundations and Curiosity Commons, the [paired external reviewer pack](PAIRED_REVIEWER_PACK_v0.1.md) exposes the relevant architecture, safeguards, measurement logic and evidence boundaries without publishing the wider Curiosity Commons archive.
 
+
+## October 2026 development addendum
+
+A [provisional v0.2 development addendum](DEVELOPMENT_ADDENDUM_v0.2.md) explores constraint-aware agency, cognitive resources, interaction literacy and interpretation discipline. It supplements rather than replaces the historical v0.1 release and makes no new validation claim.
+
 ## Read v0.1
 
 - [Human Foundations for an Age of AI — Public Working Framework v0.1](HUMAN_FOUNDATIONS_v0.1.md)
